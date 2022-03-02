@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtM1YmxQNl7Yp4gdNpU0qsvR9PUB/Xt46IIwszX4TpkR0cxzdoFeI4isWEx3C7KzfgMB0oPPNIhbc5VA7HW1iQ==",
+  "success": true,
+  "projectFilePath": "S:\\work\\VSCode\\FinalWeatherApi\\weatherapi\\weatherapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twomi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\twomi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\twomi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\twomi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\twomi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\twomi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
